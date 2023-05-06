@@ -1,6 +1,8 @@
 # p5js-osaka
 
-Genmerative art piece utilizing a grid of polygons with removed sections.
+Generative art piece utilizing a grid of polygons with removed sections.
+
+Left mouse click will re-generate a new piece, and right click will download the image.
 
 Named 'Osaka' since the pattern is inspired by an art piece seen in the background of a scene in John Wick: Chapter 4 which takes place in Osaka.
 
